@@ -1,7 +1,11 @@
 {
   "files": {
-    "main.css": "/pizza-ordering-online/static/css/main.653de039.css",
-    "main.js": "/pizza-ordering-online/static/js/main.98a72f1b.js",
+    "main.css": "/pizza-ordering-online/static/css/main.6ac08b2c.css",
+    "main.js": "/pizza-ordering-online/static/js/main.45499b2f.js",
+    "static/js/862.76de63c3.chunk.js": "/pizza-ordering-online/static/js/862.76de63c3.chunk.js",
+    "static/js/362.c5d78d44.chunk.js": "/pizza-ordering-online/static/js/362.c5d78d44.chunk.js",
+    "static/css/357.8cc9d756.chunk.css": "/pizza-ordering-online/static/css/357.8cc9d756.chunk.css",
+    "static/js/357.cb0d5d20.chunk.js": "/pizza-ordering-online/static/js/357.cb0d5d20.chunk.js",
     "static/js/787.fd7bc957.chunk.js": "/pizza-ordering-online/static/js/787.fd7bc957.chunk.js",
     "static/media/empty-cart.png": "/pizza-ordering-online/static/media/empty-cart.db905d1f4b063162f25b.png",
     "static/media/pizza-logo.svg": "/pizza-ordering-online/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
@@ -10,12 +14,16 @@
     "static/media/arrow-sorts.svg": "/pizza-ordering-online/static/media/arrow-sorts.ef801227a6519b826be778ea119c48d9.svg",
     "static/media/inputClose.svg": "/pizza-ordering-online/static/media/inputClose.0313d4d38258b1b8c38b7d6791611c35.svg",
     "static/media/search.svg": "/pizza-ordering-online/static/media/search.5ca6b0e48c3c1206792e0d6952b52b7f.svg",
-    "main.653de039.css.map": "/pizza-ordering-online/static/css/main.653de039.css.map",
-    "main.98a72f1b.js.map": "/pizza-ordering-online/static/js/main.98a72f1b.js.map",
+    "main.6ac08b2c.css.map": "/pizza-ordering-online/static/css/main.6ac08b2c.css.map",
+    "main.45499b2f.js.map": "/pizza-ordering-online/static/js/main.45499b2f.js.map",
+    "862.76de63c3.chunk.js.map": "/pizza-ordering-online/static/js/862.76de63c3.chunk.js.map",
+    "362.c5d78d44.chunk.js.map": "/pizza-ordering-online/static/js/362.c5d78d44.chunk.js.map",
+    "357.8cc9d756.chunk.css.map": "/pizza-ordering-online/static/css/357.8cc9d756.chunk.css.map",
+    "357.cb0d5d20.chunk.js.map": "/pizza-ordering-online/static/js/357.cb0d5d20.chunk.js.map",
     "787.fd7bc957.chunk.js.map": "/pizza-ordering-online/static/js/787.fd7bc957.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.653de039.css",
-    "static/js/main.98a72f1b.js"
+    "static/css/main.6ac08b2c.css",
+    "static/js/main.45499b2f.js"
   ]
 }
