@@ -1,0 +1,27 @@
+.input{
+    position: relative;
+    input{
+        margin-right: 300px;
+        width: 300px;
+        height: 35px;
+        border-radius: 8px;
+        border-color: rgb(180, 180, 180);
+        font-size: 16px;
+        padding-left: 10px;
+        padding-right: 33px;
+    }
+    .search{
+        width: 30px;
+        position: absolute;
+        left: -33px;
+        top: 1px;
+    }
+    .close{
+        width: 30px;
+        position: absolute;
+        top: 0;
+        left: 265px;
+        top: 3px;
+        cursor: pointer;
+    }
+}
